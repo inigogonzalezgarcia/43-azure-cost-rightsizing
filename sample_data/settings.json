@@ -1,0 +1,59 @@
+{
+  "organisation": "Litware Group",
+  "as_of": "2026-11-04 08:00",
+  "month": "2026-10",
+  "currency": "EUR",
+  "rs_cpu_p95": 40,
+  "rs_mem_used": 0.4,
+  "rs_min_saving": 20,
+  "idle_cpu_p95": 5,
+  "office_hours_per_week": 60,
+  "always_on_share": 0.9,
+  "nonprod_envs": [
+    "dev",
+    "test",
+    "uat",
+    "sandbox"
+  ],
+  "unattached_days": 30,
+  "util_warning": 0.8,
+  "util_critical": 0.6,
+  "expiry_days": 90,
+  "decision_days": 60,
+  "coverage_target": 0.6,
+  "steady_share": 0.95,
+  "commitment_discount": 0.3,
+  "gap_warning": 0.05,
+  "gap_critical": 0.1,
+  "budget_critical": 1.1,
+  "unit_cost_warning": 0.1,
+  "tag_keys": {
+    "cost_centre": [
+      "costcentre",
+      "costcenter"
+    ],
+    "owner": [
+      "owner"
+    ],
+    "env": [
+      "env",
+      "environment"
+    ],
+    "schedule": [
+      "schedule"
+    ]
+  },
+  "owners": {
+    "rightsizing": "Cloud platform team (Hugo Ferrer)",
+    "waste": "Cloud platform team (Hugo Ferrer)",
+    "commitments": "FinOps lead (Elena Márquez)",
+    "showback": "FinOps lead (Elena Márquez)"
+  },
+  "cost_centres": {
+    "CC-1100": "Claims",
+    "CC-1200": "Policy administration",
+    "CC-1300": "Data and analytics",
+    "CC-1400": "Digital channels",
+    "CC-1900": "IT shared platform"
+  }
+}
