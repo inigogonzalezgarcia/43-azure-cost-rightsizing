@@ -1,0 +1,5 @@
+id,displayName,type,sku,reservedResourceType,appliedScopeType,appliedScopeDisplayName,term,quantity,commitmentAmount,utilization1Day,utilization7Days,utilization30Days,expiryDate,renew
+/providers/microsoft.capacity/reservationorders/505f886a-8692-f91e-e530-3537fa5dcfb4/reservations/902692de-7365-3e31-0d71-24ae6ca5aae2,RI-F8sv2-PolicyBatch,Reservation,Standard_F8s_v2,VirtualMachines,Shared,,P1Y,10,,50.0,50.0,55.0,2026-12-15,true
+/providers/microsoft.capacity/reservationorders/1f4fe174-432c-53bd-2a91-58df4e69603e/reservations/cdd0846b-5dc9-78a6-1b9e-de8c00f27248,RI-E8sv5-SQL,Reservation,Standard_E8s_v5,VirtualMachines,Shared,,P1Y,6,,100.0,100.0,96.1,2027-01-20,false
+/providers/microsoft.capacity/reservationorders/d87fe454-ad07-d0ae-92f9-73f650621f37/reservations/93afe345-b58c-7604-5599-5e5e3621d943,RI-D4sv5-ClaimsApp,Reservation,Standard_D4s_v5,VirtualMachines,Shared,,P1Y,10,,100.0,100.0,100.0,2027-06-30,true
+/providers/microsoft.billingbenefits/savingsplanorders/83a48e48-0cf5-5761-08c9-46d1a4acb199/savingsplans/9170c31c-4976-96e9-a589-19a728def7fd,SP-Compute-Shared,Savings Plan,Compute_Savings_Plan,,Shared,,P3Y,,5.45,99.1,99.1,99.1,2029-03-31,false

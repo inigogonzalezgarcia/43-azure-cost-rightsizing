@@ -1,0 +1,11 @@
+cost_centre,name,month,budget,owner
+CC-1100,Claims,2026-10,21500,Claims IT (Marta Solís)
+CC-1100,Claims,2026-11,21500,Claims IT (Marta Solís)
+CC-1200,Policy administration,2026-10,15500,Policy IT (Andrés Vidal)
+CC-1200,Policy administration,2026-11,15500,Policy IT (Andrés Vidal)
+CC-1300,Data and analytics,2026-10,26000,Data office (Lucía Herrera)
+CC-1300,Data and analytics,2026-11,26000,Data office (Lucía Herrera)
+CC-1400,Digital channels,2026-10,12000,Digital (Pablo Gil)
+CC-1400,Digital channels,2026-11,12000,Digital (Pablo Gil)
+CC-1900,IT shared platform,2026-10,9000,IT platform (Hugo Ferrer)
+CC-1900,IT shared platform,2026-11,9000,IT platform (Hugo Ferrer)

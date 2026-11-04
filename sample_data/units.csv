@@ -1,0 +1,10 @@
+month,cost_centre,unit,units,effective_cost
+2026-08,CC-1100,claim processed,42640,20829.36
+2026-09,CC-1100,claim processed,42218,21039.75
+2026-10,CC-1100,claim processed,41800,
+2026-08,CC-1200,policy in force,290421,13757.42
+2026-09,CC-1200,policy in force,287546,13896.39
+2026-10,CC-1200,policy in force,286400,
+2026-08,CC-1400,monthly active user,133821,11029.93
+2026-09,CC-1400,monthly active user,132496,11141.35
+2026-10,CC-1400,monthly active user,118300,
